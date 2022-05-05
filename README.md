@@ -29,6 +29,11 @@ I hope you will enjoy this journey. Happy learning!
 - 🌐 [Day No.10 of Learning Networking](Days/day10.md)
 - 🌐 [Day No.11 of Learning Networking](Days/day11.md)
 
+## **Learning Linux**
+- 🐧 [Day No.12 of Learning Linux](Days/day12.md)
+- 🐧 [Day No.13 of Learning Linux](Days/day13.md)
+- 🐧 [Day No.14 of Learning Linux](Days/day14.md)
+
 ## **Author Info**
 
 - YouTube - [Developer Bilal](https://www.youtube.com/channel/UCBLTfRg0Rgm4FtXkvql7DRQ)
