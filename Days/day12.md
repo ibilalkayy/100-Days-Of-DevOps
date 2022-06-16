@@ -1,4 +1,4 @@
-In the twelveth day, I have learned the following things about Linux.
+On the twelveth day, I learned the following things about Linux.
 
 - The command line interface will communicate with the kernel and it will give the input to the kernel to do a certain task and as a result the kernel will perform that operation.
 - In the command prompt, the path will be given to you that has two parts.
@@ -45,4 +45,4 @@ In the twelveth day, I have learned the following things about Linux.
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [12/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [12/100 Days DevOps Challenge]()

@@ -1,4 +1,4 @@
-In the thirteenth day, I have learned the following things about Linux.
+On the thirteenth day, I learned the following things about Linux.
 
 - `sudo` (super user do) will be used when some commands require administrative permission. If you want to access some files that require admin permission then you will use `sudo` to enter the password and give the permssion.
 - `df` is used to find the disk storage capacity.
@@ -73,4 +73,4 @@ Let's you want to find multiple files and delete them.
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [13/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [13/100 Days DevOps Challenge]()

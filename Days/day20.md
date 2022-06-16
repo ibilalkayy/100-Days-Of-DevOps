@@ -1,4 +1,4 @@
-On the twenteeth day, I have learned the following things about Docker and Containers.
+On the twenteeth day, I learned the following things about Docker and Containers.
 
 - `docker commit -m "add a message here" container_id new_image_name` will commit and transfer a container’s file data or settings into a new image.
 
@@ -50,7 +50,6 @@ The following points need to be noted about the above file −
 - Shim has a binary file **docker-containerd-shim**
 - runc  has a binary file **docker-runc**
 
-
 ## **Explaining it in a video**
 
-You can find the video of it here. [20/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [20/100 Days DevOps Challenge]()

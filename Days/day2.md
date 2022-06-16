@@ -1,4 +1,4 @@
-In the second day, I have learned the following things about Git.
+On the second day, I learned the following things about Git.
 
 - `git branch` will show the list of branches of Git. Branch is created to divide the data functionalities or use cases.
 - `git branch branchname` will create a new branch.
@@ -8,4 +8,4 @@ In the second day, I have learned the following things about Git.
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [2/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [2/100 Days DevOps Challenge]()

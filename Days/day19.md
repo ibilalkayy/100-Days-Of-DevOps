@@ -1,4 +1,4 @@
-On the nineteenth day, I have learned the following things about Docker and Containers.
+On the nineteenth day, I learned the following things about Docker and Containers.
 
 <p align="center"> 
     <img src="../Images/devops2.png" alt="100-Days-Of-DevOps" width="80%" height="80%">
@@ -90,7 +90,6 @@ Whenever you'll go to the localhost 8080, it will forward it inside the containe
 
 **Port forwarding** or port mapping redirects a communication request from one IP address and port number combination to another.
 
-
 ## **Explaining it in a video**
 
-You can find the video of it here. [19/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [19/100 Days DevOps Challenge]()

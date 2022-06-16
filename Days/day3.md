@@ -1,4 +1,4 @@
-In the third day, I have learned the following things about GitHub.
+On the third day, I learned the following things about GitHub.
 
 - Click on the plus button to create a new repository.
 - `git remote add origin repo-copy/link.git` will add the local storage or the origin into the remote server.
@@ -27,4 +27,4 @@ Upstream is the original repo that you have forked from an original account.
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [3/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [3/100 Days DevOps Challenge]()

@@ -15,24 +15,24 @@ I hope you will enjoy this journey. Happy learning!
 # Progress
 
 ## **Use Git and GitHub**
-- 📚 [Day No.1 of Learning Git](Days/day1.md)
-- 📚 [Day No.2 of Learning Git](Days/day2.md)
-- 📚 [Day No.3 of Learning GitHub](Days/day3.md)
+- 📚 [Day No. 1 of Learning Git](Days/day1.md)
+- 📚 [Day No. 2 of Learning Git](Days/day2.md)
+- 📚 [Day No. 3 of Learning GitHub](Days/day3.md)
 
 ## **Understand Networking**
-- 🌐 [Day No.4 of Learning Networking](Days/day4.md)
-- 🌐 [Day No.5 of Learning Networking](Days/day5.md)
-- 🌐 [Day No.6 of Learning Networking](Days/day6.md)
-- 🌐 [Day No.7 of Learning Networking](Days/day7.md)
-- 🌐 [Day No.8 of Learning Networking](Days/day8.md)
-- 🌐 [Day No.9 of Learning Networking](Days/day9.md)
-- 🌐 [Day No.10 of Learning Networking](Days/day10.md)
-- 🌐 [Day No.11 of Learning Networking](Days/day11.md)
+- 🌐 [Day No. 4 of Learning Networking](Days/day4.md)
+- 🌐 [Day No. 5 of Learning Networking](Days/day5.md)
+- 🌐 [Day No. 6 of Learning Networking](Days/day6.md)
+- 🌐 [Day No. 7 of Learning Networking](Days/day7.md)
+- 🌐 [Day No. 8 of Learning Networking](Days/day8.md)
+- 🌐 [Day No. 9 of Learning Networking](Days/day9.md)
+- 🌐 [Day No. 10 of Learning Networking](Days/day10.md)
+- 🌐 [Day No. 11 of Learning Networking](Days/day11.md)
 
 ## **Learning Linux**
-- 🐧 [Day No.12 of Learning Linux](Days/day12.md)
-- 🐧 [Day No.13 of Learning Linux](Days/day13.md)
-- 🐧 [Day No.14 of Learning Linux](Days/day14.md)
+- 🐧 [Day No. 12 of Learning Linux](Days/day12.md)
+- 🐧 [Day No. 13 of Learning Linux](Days/day13.md)
+- 🐧 [Day No. 14 of Learning Linux](Days/day14.md)
 
 ## **Learning YAML**
 - ⌨️ [Day No.15 of Learning YAML](Days/day15.md)
@@ -40,9 +40,18 @@ I hope you will enjoy this journey. Happy learning!
 - ⌨️ [Day No.17 of Learning YAML](Days/day17.md)
 
 ## **Understanding Docker**
-- 🏗️ [Day No.18 of unerstanding Docker and Containers](Days/day18.md)
-- 🏗️ [Day No.19 of unerstanding Docker and Containers](Days/day19.md)
-- 🏗️ [Day No.20 of unerstanding Docker and Containers](Days/day20.md)
+- 🏗️ [Day No. 18 of unerstanding Docker and Containers](Days/day18.md)
+- 🏗️ [Day No. 19 of unerstanding Docker and Containers](Days/day19.md)
+- 🏗️ [Day No. 20 of unerstanding Docker and Containers](Days/day20.md)
+
+## **Learning Kubernetes**
+- ☸ [Day No. 21 of Learning Kubernetes](Days/day21.md)
+- ☸ [Day No. 22 of Learning Kubernetes](Days/day22.md)
+- ☸ [Day No. 23 of Learning Kubernetes](Days/day23.md)
+- ☸ [Day No. 24 of Learning Kubernetes](Days/day24.md)
+- ☸ [Day No. 25 of Learning Kubernetes](Days/day25.md)
+- ☸ [Day No. 26 of Learning Kubernetes](Days/day26.md)
+- ☸ [Day No. 27 of Learning Kubernetes](Days/day27.md)
 
 ## **Author Info**
 

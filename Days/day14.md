@@ -1,4 +1,4 @@
-In the forteenth day, I have learned the following things about Linux.
+On the forteenth day, I learned the following things about Linux.
 
 - In Linux, an alias is **a shortcut that references a command.**
 Aliases are mostly used to replace long commands, improving efficiency and avoiding potential spelling errors.
@@ -71,4 +71,4 @@ Aliases are mostly used to replace long commands, improving efficiency and avoid
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [14/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [14/100 Days DevOps Challenge]()

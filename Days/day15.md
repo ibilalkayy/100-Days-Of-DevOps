@@ -1,7 +1,7 @@
-In the fifteenth day, I have learned the following things about YAML.
+On the fifteenth day, I learned the following things about YAML.
 
-- ⌨️ [Day No.15 Learning YAML](../PDFs/YAML-1.pdf)
+- ⌨️ [Day No.15 of Learning YAML](../PDFs/YAML-1.pdf)
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [15/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [15/100 Days DevOps Challenge]()

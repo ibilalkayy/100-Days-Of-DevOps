@@ -1,4 +1,4 @@
-In the sixteenth day, I have learned the following things about YAML.
+On the sixteenth day, I learned the following things about YAML.
 
 ## Starting and ending point
 
@@ -119,7 +119,6 @@ In the sixteenth day, I have learned the following things about YAML.
     not a time zone: 2001-12-15T02:59:43.1Z
     ...
 
-
 ## **Explaining it in a video**
 
-You can find the video of it here. [16/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [16/100 Days DevOps Challenge]()

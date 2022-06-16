@@ -1,4 +1,4 @@
-In the first day, I have learned the following things about Git.
+On the first day, I learned the following things about Git.
 
 - `git init` will only track a particular directory in which git is initialized.
 - `git status` will show the status of the files that are newly created, modified or deleted.
@@ -19,4 +19,4 @@ In the first day, I have learned the following things about Git.
 
 ## **Explaining it in a video**
 
-You can find the video of it here. [1/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [1/100 Days DevOps Challenge]()

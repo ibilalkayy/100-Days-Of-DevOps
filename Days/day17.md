@@ -1,4 +1,4 @@
-In the seventeenth day, I have learned the following things about YAML.
+On the seventeenth day, I learned the following things about YAML.
 
 ## Write a sequence
 
@@ -149,7 +149,6 @@ In the seventeenth day, I have learned the following things about YAML.
             name: Bilal Khan
             marks: 5
 
-
 ## **Explaining it in a video**
 
-You can find the video of it here. [17/100 Days DevOps Challenge]()
+Here you can get the explanation in a video. [17/100 Days DevOps Challenge]()
